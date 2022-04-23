@@ -1,0 +1,2 @@
+# Sarcasm-Detection-in-News-Headline-Data-Using-Data-Mining-Techniques
+By collecting many real time data, this application detect the sarcasm. In this project, we focused on accuracy and errors by implementing different algorithms called Naive Bayes Classifier, Decision tree classifier, Neural network with multi layer perception and then compare the accuracy of these algorithm for sentiment analysis.
